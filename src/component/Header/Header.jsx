@@ -1,5 +1,6 @@
-import styles from './Header.module.css';
 import PrimaryHeading from '../PrimaryHeading/PrimaryHeading';
+import styles from './Header.module.css';
+
 const Header = () => {
   return (
     <header className={styles.header}>
